@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+}
+div{
+    background-color: white;
+    text-align: center;
+    margin: 2vh 36.6vw;
+    border-radius: 10px;
+}
+.sir{
+    border-radius: 360px;
+ 
+    margin-top: -45px;
+
+}
+.up{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+p{
+    font-size: 18px;
+}
+
+b{
+    font-size: 15px;
+}
+pre{
+    font-size: 18px;
+}
